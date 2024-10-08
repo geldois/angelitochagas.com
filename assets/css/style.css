@@ -1428,7 +1428,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     border-radius: 20px;
   }
 
-  .testimonials-avatar-box img { width: 80px; border-radius: 30px; }
+  .testimonials-avatar-box img { width: 80px; border-radius: 18px; }
 
   .testimonials-item-title {
     margin-bottom: 10px;
@@ -1464,7 +1464,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 0;
   }
 
-  .modal-avatar-box img { width: 65px; }
+  .modal-avatar-box img { width: 65px; border-radius: 18px; }
 
   .modal-img-wrapper > img {
     display: block;
