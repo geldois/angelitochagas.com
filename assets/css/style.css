@@ -9,6 +9,7 @@
 
 .hidden { display: none; }
 .inline { display: inline; }
+.my-link, .my-link:visited, .my-link:hover, .my-link:active { color: #fafafa; text-decoration: none; font-weight: bold; }
 
 
 /*-----------------------------------*\
